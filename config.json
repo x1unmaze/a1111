@@ -1,0 +1,8 @@
+{
+  "outdir_txt2img_samples": "/content/drive/MyDrive/Stable Diffusion/Export",
+  "outdir_img2img_samples": "/content/drive/MyDrive/Stable Diffusion/Export/Img2img",
+  "outdir_extras_samples": "/content/drive/MyDrive/Stable Diffusion/Export/Extra",
+  "outdir_grids": "",
+  "outdir_txt2img_grids": "/content/drive/MyDrive/Stable Diffusion/Export/Grids",
+  "outdir_img2img_grids": "/content/drive/MyDrive/Stable Diffusion/Export/Grids"
+}
